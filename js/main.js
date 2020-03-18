@@ -91,6 +91,14 @@ $(function() {
       link: 'https://www.zhihu.com/',
       icon: 'img/zhihulogo.png',
     }, {
+	      name: '盘他',
+	      link: 'http://panother.com',
+	      icon: 'http://panother.com/favicon.ico',
+	  }, {
+	      name: '翻译',
+	      link: 'http://fanyi.youdao.com',
+	      icon: 'http://shared.ydstatic.com/images/favicon.ico',
+	  }, {
       name: 'unsplash',
       link: 'https://unsplash.com/',
       icon: 'img/unsplash.png',
